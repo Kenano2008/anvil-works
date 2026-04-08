@@ -1,0 +1,16 @@
+components:
+- components:
+  - layout_properties: {col_xs: 0, row: BHWVQH, width_xs: 5}
+    name: label_teilnehmer
+    properties: {}
+    type: Label
+  - layout_properties: {col_xs: 5, row: BHWVQH, width_xs: 6}
+    name: button_anmelden
+    properties: {text: anmelden}
+    type: Button
+  layout_properties: {}
+  name: grid_panel_1
+  properties: {}
+  type: GridPanel
+container: {type: DataRowPanel}
+is_package: true
